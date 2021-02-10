@@ -1,0 +1,12 @@
+//i am testing my contribution on ur git 
+
+
+
+#include<stdio.h>
+main()
+{
+
+printf("i hope i know the syntax");
+
+}
+
